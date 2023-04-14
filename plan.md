@@ -17,9 +17,9 @@
     * color
     * size
 * 4/19/2023
-  * start to code my inovation
+  * start to code my innovation
 * 4/19/2023
-  * keep coding on inovation
+  * keep coding on innovation
 * 4/20/2023
   * finish website content
   * tidy-up all the content on the website
@@ -27,13 +27,13 @@
   * Eid no school and holiday
 
 * 4/24/2023
-  * Start to finish inovation
-  * Keep working on inovation at home
+  * Start to finish innnovation
+  * Keep working on innovation at home
 * 4/25/2023
   * Show what I have to Mr:Mueller
   * Get feedback
 * 4/26/2023
-  * Finish inovation code
+  * Finish innovation code
   * Finish MVP
 * 4/27/2023
   * Go beyond MVP

@@ -604,6 +604,11 @@ progress {
   height: 100%;
 }
 
+.size {
+  width: 376px;
+  height: 296px;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;

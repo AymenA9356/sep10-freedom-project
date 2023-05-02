@@ -79,14 +79,9 @@
   --bs-highlight-bg: #fff4cc;
 }
 
-#aframe-container {
-  width: 600px !important;
-  height: 400px !important;
-}
-
-#aframe-container canvas {
-  width: 600px !important;
-  height: 400px !important;
+a-scene {
+  height: 400px;
+  width: 1903px;
 }
 
 

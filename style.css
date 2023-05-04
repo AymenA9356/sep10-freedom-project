@@ -4,7 +4,7 @@
 * Copyright 2013-2023 Start Bootstrap
 * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-agency/blob/master/LICENSE)
 */
-/*!
+/*!img-fluid
  * Bootstrap  v5.2.3 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
  * Copyright 2011-2022 Twitter, Inc.
@@ -611,6 +611,15 @@ progress {
   height: 100%;
 }
 
+.img-size {
+  width: 376px;
+  height: 296px;
+}
+
+.fix-img {
+  max-width: auto;
+  height: auto;
+}
 .size {
   width: 376px;
   height: 296px;

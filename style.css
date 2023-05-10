@@ -11108,7 +11108,7 @@ header.masthead .masthead-heading {
   width: 2px;
   margin-left: -1.5px;
   content: "";
-  background-color: #e9ecef;
+  background-color: darkgrey;
 }
 .timeline > li {
   position: relative;
